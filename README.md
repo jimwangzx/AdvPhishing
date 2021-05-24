@@ -18,7 +18,7 @@
 * https://www.instagram.com/termuxhacking11
 
 Telegrams 
-* https://t.me/termuxhacking11
+* https://t.me/termuxhackingR1
 
 
 ### TECHNIQUE
