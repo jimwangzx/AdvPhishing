@@ -54,15 +54,15 @@ Through This Features You can Obtains the Credentails on Your Gmail Account or S
 
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/termuxhacking-R1/AdvPhishing.git
-* cd AdvPhishing/
+* git clone https://github.com/termuxhacking-R1/AdvPhishing
+* cd AdvPhishing
 * chmod 777 *
 * ./Android-Setup.sh
 * ./AdvPhishing.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/termuxhacking-R1/AdvPhishing.git
-* cd AdvPhishing/
+* git clone https://github.com/termuxhacking-R1/AdvPhishing
+* cd AdvPhishing
 * chmod 777 *
 * ./Linux-Setup.sh
 * ./AdvPhishing.sh
